@@ -11,3 +11,8 @@ Stop people from leaving the compy and pregressively improving their bottom line
 ## - This project is About
 predicting churn using ML technique called Binary Classification 
 
+## - How we're doing it
+- Get csv data that has historical data on customers that haver churned
+- Load into Watson Studio (Datascience environment)
+- Build and train a ML model using AutoAI (automate ML pipelines, and prepare them for deployment)inside WatsonStudio
+- Export model, save it as rest API, and export pipeline to Jupyter 
