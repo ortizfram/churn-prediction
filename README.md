@@ -16,3 +16,5 @@ predicting churn using ML technique called Binary Classification
 - Load into Watson Studio (Datascience environment)
 - Build and train a ML model using AutoAI (automate ML pipelines, and prepare them for deployment)inside WatsonStudio
 - Export model, save it as rest API, and export pipeline to Jupyter 
+
+data [link](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
